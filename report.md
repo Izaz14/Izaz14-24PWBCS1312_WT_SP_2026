@@ -1,0 +1,3 @@
+# Lab 01 Reflection
+
+During this lab, I learned how to create and manage files using Git. I practiced creating HTML files and adding comments. I also learned how to use a `.gitignore` file to ignore certain files and folders. Branching and merging were particularly helpful to understand how Git allows multiple versions of a project. Overall, this lab improved my confidence in using Git and GitHub for version control and collaboration.
